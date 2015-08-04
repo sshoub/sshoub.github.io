@@ -1,1 +1,5 @@
-PHP Test
+<?php
+
+echo 'PHP Test';
+
+
